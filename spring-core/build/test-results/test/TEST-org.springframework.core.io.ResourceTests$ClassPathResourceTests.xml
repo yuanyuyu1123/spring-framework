@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.io.ResourceTests$ClassPathResourceTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-10-24T19:45:15" hostname="DESKTOP-BJO6DTA" time="0.005">
+  <properties/>
+  <testcase name="equalsAndHashCode()" classname="org.springframework.core.io.ResourceTests$ClassPathResourceTests" time="0.003"/>
+  <testcase name="resourcesWithDifferentPathsAreEqual()" classname="org.springframework.core.io.ResourceTests$ClassPathResourceTests" time="0.0"/>
+  <testcase name="relativeResourcesAreEqual()" classname="org.springframework.core.io.ResourceTests$ClassPathResourceTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
